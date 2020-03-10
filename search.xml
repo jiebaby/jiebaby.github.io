@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>精准推送</title>
+    <url>/2020/03/10/%E7%B2%BE%E5%87%86%E6%8E%A8%E9%80%81/</url>
+    <content><![CDATA[<p>##精准推送多是指新媒体根据对大数据的信息化处理从而将人们想看的新闻、视频、段子、商品等置于优先位置。</p>
+<p>精准推送多是指新媒体根据对大数据的信息化处理从而将人们想看的新闻、视频、段子、商品等置于优先位置。在传统媒体媒介中也存在精准推送如报纸不同版面，电视不同主题的台，广播不同波段不同主题等也属于精准推送范围。<br>在新媒体的加入后，精准推送更加全面，数据更准确，范围更广，受众更多。随着信息技术的迅猛发展、大数据应用的兴起，算法推荐带来的信息定制化、资讯分众化已经得到较广泛应用。<br>通过算法精准推送满足了人们多元化、个性化的信息需求。通过定制化、智能化的信息传播机制，实现了用户与信息的快速精确匹配，大大降低信息传播和获取的成本，为生活带来便利。但是，算法推荐在带来高效与便捷的同时，也引发了诸如大量低俗劣质信息的推送、大数据杀熟等诸多乱象。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>邻近算法</title>
+    <url>/2020/03/10/%E9%82%BB%E8%BF%91%E7%AE%97%E6%B3%95/</url>
+    <content><![CDATA[<p>邻近算法，或者说K最近邻(kNN，k-NearestNeighbor)分类算法是数据挖掘分类技术中最简单的方法之一。所谓K最近邻，就是k个最近的邻居的意思，说的是每个样本都可以用它最接近的k个邻居来代表。<br>kNN算法的核心思想是如果一个样本在特征空间中的k个最相邻的样本中的大多数属于某一个类别，则该样本也属于这个类别，并具有这个类别上样本的特性。该方法在确定分类决策上只依据最邻近的一个或者几个样本的类别来决定待分样本所属的类别。 kNN方法在类别决策时，只与极少量的相邻样本有关。由于kNN方法主要靠周围有限的邻近的样本，而不是靠判别类域的方法来确定所属类别的，因此对于类域的交叉或重叠较多的待分样本集来说，kNN方法较其他方法更为适合。</p>
+<p>K最近邻(k-Nearest Neighbor，KNN)分类算法，是一个理论上比较成熟的方法，也是最简单的机器学习算法之一。该方法的思路是：如果一个样本在特征空间中的k个最相似(即特征空间中最邻近)的样本中的大多数属于某一个类别，则该样本也属于这个类别。KNN算法中，所选择的邻居都是已经正确分类的对象。该方法在定类决策上只依据最邻近的一个或者几个样本的类别来决定待分样本所属的类别。 KNN方法虽然从原理上也依赖于极限定理，但在类别决策时，只与极少量的相邻样本有关。由于KNN方法主要靠周围有限的邻近的样本，而不是靠判别类域的方法来确定所属类别的，因此对于类域的交叉或重叠较多的待分样本集来说，KNN方法较其他方法更为适合。<br>KNN算法不仅可以用于分类，还可以用于回归。通过找出一个样本的k个最近邻居，将这些邻居的属性的平均值赋给该样本，就可以得到该样本的属性。更有用的方法是将不同距离的邻居对该样本产生的影响给予不同的权值(weight)，如权值与距离成反比。</p>
+]]></content>
+      <tags>
+        <tag>学习 技术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Machine Learning</title>
+    <url>/2020/03/10/Machine-Learning/</url>
+    <content><![CDATA[<p>机器学习是一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、算法复杂度理论等多门学科。专门研究计算机怎样模拟或实现人类的学习行为，以获取新的知识或技能，重新组织已有的知识结构使之不断改善自身的性能。<br>它是人工智能的核心，是使计算机具有智能的根本途径。</p>
+<p>机器学习是一门多学科交叉专业，涵盖概率论知识，统计学知识，近似理论知识和复杂算法知识，使用计算机作为工具并致力于真实实时的模拟人类学习方式， 并将现有内容进行知识结构划分来有效提高学习效率。 [1]<br>机器学习有下面几种定义：<br>(1) 机器学习是一门人工智能的科学,该领域的主要研究对象是人工智能，特别是如何在经验学习中改善具体算法的性能。<br>(2) 机器学习是对能通过经验自动改进的计算机算法的研究。<br>(3) 机器学习是用数据或以往的经验,以此优化计算机程序的性能标准</p>
+]]></content>
+      <tags>
+        <tag>科技 技术 学习</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Deep Learning</title>
+    <url>/2020/03/10/Deep-Learning/</url>
+    <content><![CDATA[<p>深度学习(DL, Deep Learning)是机器学习(ML, Machine Learning)领域中一个新的研究方向，它被引入机器学习使其更接近于最初的目标——人工智能(AI, Artificial Intelligence)。<br>深度学习是学习样本数据的内在规律和表示层次，这些学习过程中获得的信息对诸如文字，图像和声音等数据的解释有很大的帮助。它的最终目标是让机器能够像人一样具有分析学习能力，能够识别文字、图像和声音等数据。 深度学习是一个复杂的机器学习算法，在语音和图像识别方面取得的效果，远远超过先前相关技术。<br>深度学习在搜索技术，数据挖掘，机器学习，机器翻译，自然语言处理，多媒体学习，语音，推荐和个性化技术，以及其他相关领域都取得了很多成果。深度学习使机器模仿视听和思考等人类的活动，解决了很多复杂的模式识别难题，使得人工智能相关技术取得了很大进步。</p>
+]]></content>
+      <tags>
+        <tag>学习 技术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Vue.js</title>
+    <url>/2020/03/10/Vue-js/</url>
+    <content><![CDATA[<p>Vue (读音 /vjuː/，类似于 view) 是一套用于构建用户界面的渐进式框架。与其它大型框架不同的是，Vue 被设计为可以自底向上逐层应用。Vue 的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。另一方面，当与现代化的工具链以及各种支持类库结合使用时，Vue 也完全能够为复杂的单页应用提供驱动。</p>
+]]></content>
+      <tags>
+        <tag>技术  代码  学习</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>树莓派</title>
+    <url>/2020/03/10/%E6%A0%91%E8%8E%93%E6%B4%BE/</url>
+    <content><![CDATA[<p>树莓派由注册于英国的慈善组织“Raspberry Pi 基金会”开发，Eben·Upton/埃·厄普顿为项目带头人。2012年3月，英国剑桥大学埃本·阿普顿（Eben Epton）正式发售世界上最小的台式机，又称卡片式电脑，外形只有信用卡大小，却具有电脑的所有基本功能，这就是Raspberry Pi电脑板，中文译名”树莓派”。这一基金会以提升学校计算机科学及相关学科的教育，让计算机变得有趣为宗旨。基金会期望这 一款电脑无论是在发展中国家还是在发达国家，会有更多的其它应用不断被开发出来，并应用到更多领域。在2006年树莓派早期概念是基于Atmel的 ATmega644单片机，首批上市的10000“台”树莓派的“板子”，由中国台湾和大陆厂家制造。<br>它是一款基于ARM的微型电脑主板，以SD/MicroSD卡为内存硬盘，卡片主板周围有1/2/4个USB接口和一个10/100 以太网接口（A型没有网口），可连接键盘、鼠标和网线，同时拥有视频模拟信号的电视输出接口和HDMI高清视频输出接口，以上部件全部整合在一张仅比信用卡稍大的主板上，具备所有PC的基本功能只需接通电视机和键盘，就能执行如电子表格、文字处理、玩游戏、播放高清视频等诸多功能。 Raspberry Pi B款只提供电脑板，无内存、电源、键盘、机箱或连线。<br>树莓派的生产是通过有生产许可的三家公司Element 14/Premier Farnell、RS Components及Egoman。这三家公司都在网上出售树莓派。你可以在诸如京东、淘宝等国内网站购买到你所想要的树莓派。<br>树莓派基金会提供了基于ARM的Debian和Arch Linux的发行版供大众下载。还计划提供支持Python作为主要编程语言，支持Java、BBC BASIC (通过 RISC OS 映像或者Linux的”Brandy Basic”克隆)、C 和Perl等编程语言.</p>
+]]></content>
+      <tags>
+        <tag>技术 知识</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>SSM框架</title>
+    <url>/2020/03/09/%E5%9F%BA%E4%BA%8E%E9%98%9F%E5%88%97%E7%9A%84%E6%89%93%E5%8D%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E5%AE%9E%E7%8E%B0/</url>
+    <content><![CDATA[<p>SSM（Spring+SpringMVC+MyBatis）框架集由Spring、MyBatis两个开源框架整合而成（SpringMVC是Spring中的部分内容）。常作为数据源较简单的web项目的框架。</p>
+]]></content>
+      <tags>
+        <tag>学习  技术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/03/08/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Hello-Hexo"><a href="#Hello-Hexo" class="headerlink" title="Hello Hexo"></a>Hello Hexo</h2><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
