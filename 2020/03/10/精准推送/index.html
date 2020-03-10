@@ -68,6 +68,27 @@
         <div class="content markdown">
             <p>##精准推送多是指新媒体根据对大数据的信息化处理从而将人们想看的新闻、视频、段子、商品等置于优先位置。</p>
 <p>精准推送多是指新媒体根据对大数据的信息化处理从而将人们想看的新闻、视频、段子、商品等置于优先位置。在传统媒体媒介中也存在精准推送如报纸不同版面，电视不同主题的台，广播不同波段不同主题等也属于精准推送范围。<br>在新媒体的加入后，精准推送更加全面，数据更准确，范围更广，受众更多。随着信息技术的迅猛发展、大数据应用的兴起，算法推荐带来的信息定制化、资讯分众化已经得到较广泛应用。<br>通过算法精准推送满足了人们多元化、个性化的信息需求。通过定制化、智能化的信息传播机制，实现了用户与信息的快速精确匹配，大大降低信息传播和获取的成本，为生活带来便利。但是，算法推荐在带来高效与便捷的同时，也引发了诸如大量低俗劣质信息的推送、大数据杀熟等诸多乱象。</p>
+<h3 id="基于内容推荐算法"><a href="#基于内容推荐算法" class="headerlink" title="基于内容推荐算法"></a>基于内容推荐算法</h3><p>基于用户感兴趣的物品A，找到和A内容信息相近的物品B</p>
+<p>（1）找到物品A的内容信息</p>
+<p>（2）找到与内容信息相近的物品B</p>
+<p>运用：这种推荐算法多数运用在简单的推荐列表上，当用户看了物品A立刻展示推荐关联的物品B，不需要通过大量计算反馈。但由于其局限性并不能精准推荐出用户所喜欢的内容。</p>
+<h3 id="基于用户的协同过滤算法（UserCF）"><a href="#基于用户的协同过滤算法（UserCF）" class="headerlink" title="基于用户的协同过滤算法（UserCF）"></a>基于用户的协同过滤算法（UserCF）</h3><p>这种算法给用户推荐和他兴趣相似的其他用户喜欢的物品。</p>
+<p>基于用户的协同过滤算法主要包括两个步骤：</p>
+<p>（1）找到和目标用户兴趣相似的用户集合。</p>
+<p>（2）找到这个集合中的用户喜欢的，且目标用户没有听说过的物品推荐给目标用户。</p>
+<p>运用：UserCF的推荐结果着重于反映和用户兴趣相似的小群体的热点，即更社会化，反映了用户所在的小型兴趣群体中物品的热门程度</p>
+<h3 id="基于物品的协同过滤算法（ItemCF）"><a href="#基于物品的协同过滤算法（ItemCF）" class="headerlink" title="基于物品的协同过滤算法（ItemCF）"></a>基于物品的协同过滤算法（ItemCF）</h3><p>这种算法给用户推荐和他之前喜欢的物品相似的物品。</p>
+<p>基于物品的协同过滤算法主要分为两步：</p>
+<p>（1）计算物品之间的相似度。</p>
+<p>（2）运用：ItemCF的推荐结果着重于维系用户的历史兴趣，即更个性化，反映了用户自己的兴趣传承</p>
+<h3 id="隐语义模型算法（LFM）"><a href="#隐语义模型算法（LFM）" class="headerlink" title="隐语义模型算法（LFM）"></a>隐语义模型算法（LFM）</h3><p>通过隐含特征联系用户兴趣和物品</p>
+<p>LFM是一种基于机器学习的方法，具有比较好的理论基础。这个方法和基于邻域的方法相比有更强的理论基础、离线计算空间、时间的复杂度，并且可以实现在线实时推荐。</p>
+<h3 id="其他推荐算法"><a href="#其他推荐算法" class="headerlink" title="其他推荐算法"></a>其他推荐算法</h3><p>（1）基于图的推荐算法</p>
+<p>其基本思想是将用户行为数据表示为一系列的二元组。基于用户行为二分图，给用户u推荐物品，可以转化为计算用户顶点u和与所有物品顶点i之间的相关性，然后取与用户没有直接边相连的物品，按照相关性的高低生成推荐列表。</p>
+<p>（2）基于关联规则的推荐</p>
+<p>反映一个事物与其他事物之间的相互依存性和关联性，常用于实体商店或在线电商的推荐系统：通过对顾客的购买记录数据库进行关联规则挖掘，最终目的是发现顾客群体的购买习惯的内在共性。</p>
+<p>（3）基于知识推荐</p>
+<p>使用用户知识和产品知识, 通过推理什么产品能满足用户需求来产生推荐。这种推荐系统不依赖于用户评分等关于用户偏好的历史数据, 故其不存在冷启动方面的问题。基于知识的推荐系统响应用户的即时需求, 当用户偏好发生变化时不需要任何训练。</p>
 
             <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
             <audio id="audio" loop="1" preload="auto" controls="controls" data-autoplay="true">
@@ -102,7 +123,7 @@
     </div>
     
         <div class='side'>
-            
+            <ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#基于内容推荐算法"><span class="toc-number">1.</span> <span class="toc-text">基于内容推荐算法</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#基于用户的协同过滤算法（UserCF）"><span class="toc-number">2.</span> <span class="toc-text">基于用户的协同过滤算法（UserCF）</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#基于物品的协同过滤算法（ItemCF）"><span class="toc-number">3.</span> <span class="toc-text">基于物品的协同过滤算法（ItemCF）</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#隐语义模型算法（LFM）"><span class="toc-number">4.</span> <span class="toc-text">隐语义模型算法（LFM）</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#其他推荐算法"><span class="toc-number">5.</span> <span class="toc-text">其他推荐算法</span></a></li></ol>
         </div>
     
 </div>
