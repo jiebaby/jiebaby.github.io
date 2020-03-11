@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jiebaby.github.io/2020/03/08/hello-world/</loc>
+    <loc>https://jiebaby.github.io/2020/03/11/%E8%AE%A4%E7%9F%A5%E8%AE%A1%E7%AE%97/</loc>
     <lastmod>2020-03-11</lastmod>
   </url>  <url>
     <loc>https://jiebaby.github.io/2020/03/10/%E9%82%BB%E8%BF%91%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2020-03-11</lastmod>
-  </url>  <url>
-    <loc>https://jiebaby.github.io/2020/03/11/%E8%AE%A4%E7%9F%A5%E8%AE%A1%E7%AE%97/</loc>
     <lastmod>2020-03-11</lastmod>
   </url>  <url>
     <loc>https://jiebaby.github.io/2020/03/10/%E7%B2%BE%E5%87%86%E6%8E%A8%E9%80%81/</loc>
@@ -23,6 +20,9 @@
     <lastmod>2020-03-11</lastmod>
   </url>  <url>
     <loc>https://jiebaby.github.io/2020/03/10/Machine-Learning/</loc>
+    <lastmod>2020-03-11</lastmod>
+  </url>  <url>
+    <loc>https://jiebaby.github.io/2020/03/08/hello-world/</loc>
     <lastmod>2020-03-11</lastmod>
   </url>  <url>
     <loc>https://jiebaby.github.io/2020/03/10/Deep-Learning/</loc>
