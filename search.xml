@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>开发者，这个-GitHub-项目可以褥羊毛</title>
+    <title>@开发者，这个 GitHub 项目可以褥羊毛!</title>
     <url>/2020/04/03/%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8C%E8%BF%99%E4%B8%AA-GitHub-%E9%A1%B9%E7%9B%AE%E5%8F%AF%E4%BB%A5%E8%A4%A5%E7%BE%8A%E6%AF%9B/</url>
-    <content><![CDATA[<hr>
-<p>title: ‘@开发者，这个 GitHub 项目可以褥羊毛!’<br>date: 2020-04-03 15:07:13<br>tags: 技术 学习<br>cover: <a href="https://cdn.jsdelivr.net/gh/jiebaby/PicGo/img/2020index.jpg" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/jiebaby/PicGo/img/2020index.jpg</a></p>
-<h2 id="给开发者送福利，免费送将近-10000-人民币？"><a href="#给开发者送福利，免费送将近-10000-人民币？" class="headerlink" title="给开发者送福利，免费送将近 10000 人民币？"></a>给开发者送福利，免费送将近 10000 人民币？</h2><p>GitHub 有一个区块链项目 Handshake 正在面向GitHub 上前 25万名开发者派送 4,246.99 HNS币。大约价值 1358.56美元，换算成人民币则是差不多近1万元人民币。</p>
+    <content><![CDATA[<h2 id="给开发者送福利，免费送将近-10000-人民币？"><a href="#给开发者送福利，免费送将近-10000-人民币？" class="headerlink" title="给开发者送福利，免费送将近 10000 人民币？"></a>给开发者送福利，免费送将近 10000 人民币？</h2><p>GitHub 有一个区块链项目 Handshake 正在面向GitHub 上前 25万名开发者派送 4,246.99 HNS币。大约价值 1358.56美元，换算成人民币则是差不多近1万元人民币。</p>
 <p>那么，怎么才能薅到这么让人惊喜的羊毛呢？</p>
 <h3 id="了解该项目"><a href="#了解该项目" class="headerlink" title="了解该项目"></a>了解该项目</h3><p>在准备薅这个羊毛之前，我们首先了解下什么是 handshake，handshake 是一个开源的项目，其目前是一个实验性的对等根命名系统。这是官网的介绍，其官网<a href="https://handshake.org/" target="_blank" rel="noopener">https://handshake.org/</a></p>
 <p>如果你了解 DNS，你一定知道，我们现在所使用的 DNS 系统，是一个树状的结构，DNS 服务器根据域名的层级，进行分级查询。每一级域名都有自己的NS几率，NS记录指向该向该级域名的域名服务器。这些服务器知道下一级域名的各种记录。</p>
@@ -61,6 +59,9 @@
 
 <p>作为开发者，如果你满足条件，不烦去试试看哦。这个羊毛还是蛮值得一试。</p>
 </address>]]></content>
+      <tags>
+        <tag>技术 学习</tag>
+      </tags>
   </entry>
   <entry>
     <title>认知计算</title>
